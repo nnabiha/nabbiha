@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @nabbiha,
 - 👀 I’m interested in Cloud Applied Generative AI Engineering.
-- 🌱 I’m currently learning Next js after i creating a strong grip on HTML, CSS and typescript.
+- 🌱 I’m currently learning Next.js after creating a strong grip on HTML, CSS and typescript.
 - 💞️ I’m looking to collaborate on Hackathons.
 - 📫 How to reach me 
 - Email: nabihakhan_zad@outlook.com
