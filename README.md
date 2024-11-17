@@ -8,4 +8,4 @@
 - insta handles: www.instagram.com/biha.ai
 - www.instagram.com/giaic_ki_awaam
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I haven't studied computer science since 8th grade and I jumped into the computing world during A levels as a pure Bio student to learn GenEng from scratch to collaborate it with my greatest interest being Biological research science in the future.
+- ⚡ Fun fact: I skipped computer science in 9th grade as a subject choice and I jumped into the computing world during A levels as a pure Bio student to learn GenEng from scratch. I want to collaborate it with my greatest interest being Biological research science in the future.
