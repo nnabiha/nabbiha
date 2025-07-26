@@ -1,9 +1,8 @@
-- 👋 Hey, I’m @nabbiha,
+- 👋 Hey, I’m @nnabiha,
 - 👀 I’m interested in Cloud Native Generative and Agentic AI Engineering.
 - 🌱 I’m currently learning Modern AI Python after creating a strong grip on HTML, CSS, typescript and Next JS.
 - 💞️ I’m looking to collaborate on Open-source work, Hackathons and Projects.
 - 📫 How to reach me 
 - Email: nabihakhan_zad@outlook.com
-- LinkedIn Profile: www.linkedin.com/in/nabiha-khan-38015924a
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I skipped computer science in 9th grade as a subject choice and I jumped into the computing world during A levels as a pure Bio student to learn GenEng from scratch. I want to collaborate it with my greatest interest being Islamic sciences, minimalism and wellness in the future.
